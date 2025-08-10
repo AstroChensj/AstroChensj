@@ -12,7 +12,7 @@
 
 ## 📫 Contact
 - **Email:** [JohnnyCsj666@gmail.com]
-- **Bluesky:** [@‪chensj.bsky.social‬] (Shi-Jiang Chen)
+- **Bluesky:** [@‪chensj.bsky.social‬](https://bsky.app/profile/chensj.bsky.social)
 
 ## 📊 Stats
 ![AstroChensj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroChensj&show_icons=true)
