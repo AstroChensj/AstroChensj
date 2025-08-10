@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome to Shi-Jiang's GitHub
 
-<!--
-**AstroChensj/AstroChensj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Name:** Shi-Jiang Chen
+- **Position:** 1st Year PhD Student
+- **Institution:** University of Science and Technology of China (USTC), Department of Astronomy
+- **Research Field:** Active Galactic Nuclei (AGN)
 
-Here are some ideas to get you started:
+## 🔭 Research Interests
+- Physics and evolution of Active Galactic Nuclei
+- X-rays, Opticals, IRs, Radios, ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills
+- Python (data analysis, visualization, automation)
+- Scientific programming
+- Handling large astronomical datasets
+
+## 🚀 Favorite Projects
+- **Xstack**: [see here](https://github.com/AstroChensj/Xstack)
+  - X-ray spectral stacking for AGN studies
+
+## 📫 Contact
+- **Email:** [JohnnyCsj666@gmail.com]
+- **Bluesky:** [@‪chensj.bsky.social‬] (Shi-Jiang Chen)
+
+## 📊 Stats
+![AstroChensj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroChensj&show_icons=true)
+
+---
+
+> _“Exploring the mysteries of the universe, one dataset at a time.”_
